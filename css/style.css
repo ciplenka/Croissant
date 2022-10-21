@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: oriya mn;
+  margin: 10px;
+  background-color: #f8e8a6;
+}
+a {
+  margin: 0 15px;
+  color: green;
+}
+h1,
+.croissant {
+  margin: 20px auto;
+}
+h1 {
+  font-weight: bold;
+}
+h3,
+a {
+  font-size: 14px;
+}
